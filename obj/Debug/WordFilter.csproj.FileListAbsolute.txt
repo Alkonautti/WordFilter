@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\WordFilter\bin\Debug\WordFilter.exe.config
+E:\Visual Studio Projects\WordFilter\bin\Debug\WordFilter.exe
+E:\Visual Studio Projects\WordFilter\bin\Debug\WordFilter.pdb
+E:\Visual Studio Projects\WordFilter\obj\Debug\WordFilter.csproj.AssemblyReference.cache
+E:\Visual Studio Projects\WordFilter\obj\Debug\WordFilter.Form1.resources
+E:\Visual Studio Projects\WordFilter\obj\Debug\WordFilter.Properties.Resources.resources
+E:\Visual Studio Projects\WordFilter\obj\Debug\WordFilter.csproj.GenerateResource.cache
+E:\Visual Studio Projects\WordFilter\obj\Debug\WordFilter.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\WordFilter\obj\Debug\WordFilter.exe
+E:\Visual Studio Projects\WordFilter\obj\Debug\WordFilter.pdb
